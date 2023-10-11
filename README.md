@@ -6,7 +6,7 @@ LootTable is a Python library that provides a simple and flexible implementation
 ## Installation
 You can easily install LootTable using pip:
 ```bash
-pip install loottable
+pip install LootTable
 ```
 
 ## Example
