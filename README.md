@@ -74,5 +74,3 @@ This method selects a random drop based on the configuration of your loot table.
  - Quick JSON loading
  - ??? (We are open to suggestions)
 ```
-
-This revised document enhances readability and maintains a professional tone throughout. Feel free to adapt it further to suit your needs.
